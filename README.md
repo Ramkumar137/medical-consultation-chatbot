@@ -84,8 +84,6 @@
    
    -Voice interaction
    
-   -PDF report generation
-   
    -Medical history tracking
    
    -Emergency contact system
