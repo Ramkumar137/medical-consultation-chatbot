@@ -50,7 +50,7 @@
 
    #### ├── .env/
        
-   #### ├── app.py
+   #### ├── main.py
        
    #### ├── requirements.txt
        
