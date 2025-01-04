@@ -2,7 +2,7 @@
    A modern web-based medical consultation platform that provides an interactive chat interface for patients to discuss their health concerns. The application features a user-friendly registration system and a real-time chat interface with AI-powered responses.
  
  
- Features
+ ##Features:
 
    -Patient Registration System
    
@@ -16,31 +16,31 @@
    
    -Secure Data Handling
 
-Tech Stack
+##Tech Stack
 
-Frontend:
+###Frontend:
    
-   HTML5
+   -HTML5
    
-   CSS3
+   -CSS3
    
-   JavaScript
+   -JavaScript
    
-Backend:   
+###Backend:   
 
-   Python
+   -Python
    
-   Flask
+   -Flask
    
-   Flask-CORS
+   -Flask-CORS
 
-Run the application:
+##Run the application:
 
    The application will be available at http://localhost:5000
 
-Project Structure:
+##Project Structure:
 
-   medical-consultation-chatbot/
+   ####medical-consultation-chatbot/
        
    ├── static/
        
@@ -62,7 +62,7 @@ Project Structure:
        
    └── README.md
 
-Usage:
+##Usage:
 
   -Access the application through your web browser
   
@@ -74,7 +74,7 @@ Usage:
   
   -Receive real-time responses to your health queries
 
-Future Enhancements:
+##Future Enhancements:
 
    -Integration with medical knowledge base
    
@@ -91,6 +91,6 @@ Future Enhancements:
    -Emergency contact system
 
 
-Disclaimer:
+##Disclaimer:
 
    This chatbot is for informational purposes only and should not be considered as a replacement for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
