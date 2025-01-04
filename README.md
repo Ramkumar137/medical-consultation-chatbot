@@ -1,12 +1,19 @@
 # medical-consultation-chatbot
    A modern web-based medical consultation platform that provides an interactive chat interface for patients to discuss their health concerns. The application features a user-friendly registration system and a real-time chat interface with AI-powered responses.
+ 
+ 
  Features
 
    -Patient Registration System
+   
    -Real-time Chat Interface
+   
    -Medical History Collection
+   
    -Prescription Upload Capability
+   
    -Interactive Response System
+   
    -Secure Data Handling
 
 Tech Stack
