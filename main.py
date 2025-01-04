@@ -22,7 +22,7 @@ os.makedirs('templates', exist_ok=True)
 os.makedirs('static', exist_ok=True)
 
 # Configure Gemini API
-GEMINI_API_KEY = "AIzaSyAdrSGf3zIumcKq1yaQmaIzuLXP8kGQzQc"  # Replace with your API key
+GEMINI_API_KEY =  "# Replace with your API key"
 genai.configure(api_key=GEMINI_API_KEY)
 model = genai.GenerativeModel('gemini-pro')
 
