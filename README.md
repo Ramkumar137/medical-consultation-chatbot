@@ -42,25 +42,25 @@
 
    #### medical-consultation-chatbot/
        
-   ├── static/
+   #### ├── static/
        
    │   ├── styles.css
        
    │   └── script.js
        
-   ├── templates/
+   #### ├── templates/
        
    │   ├── index.html
        
    │   └── chat.html
        
-   ├── uploads/
+   #### ├── uploads/
        
-   ├── app.py
+   #### ├── app.py
        
-   ├── requirements.txt
+   #### ├── requirements.txt
        
-   └── README.md
+   #### └── README.md
 
 ## Usage:
 
